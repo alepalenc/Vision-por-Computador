@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Resolución de puzzles}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Framework usado en el proyecto}{4}{section.2}%
+\contentsline {section}{\numberline {3}Ajuste fino sobre CIFAR100}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Preprocesamiento de las imágenes}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Entrenamiento de la última capa}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Ajuste fino}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Filtros aprendidos}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Comparación con AlexNet}{8}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Ajuste fino sobre FRUITS360}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Preprocesamiento de las imágenes}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Entrenamiento de la última capa}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Ajuste fino}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Conclusiones}{12}{section.5}%
+\contentsline {section}{\numberline {6}Bibliografía}{13}{section.6}%
